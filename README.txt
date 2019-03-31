@@ -7,7 +7,7 @@ The program was created using the Eclipse IDE in a Windows environment and can b
 The runnable submission contains 3 items: client.jar, server.jar, and a folder called serverFiles.
 
 To run the program:
-1) Download the source code found at https://github.com/STisbi/CSE_5306.git
+1) Download all the files found at https://github.com/STisbi/CSE_5306.git
 2) Extract the contents of the .zip file.
 3) Navigate to the folder with the extracted contents.
 4) Extract the contents of serverFiles.zip
